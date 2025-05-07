@@ -1,5 +1,5 @@
 # Real-timeSalary
-实时工资显示组件（pc）
+实时工资显示组件（pc）-练习项目
 
 参考：https://cal.diyun.site/
 
